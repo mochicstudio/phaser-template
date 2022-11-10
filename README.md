@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-This is a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Rollup](https://rollupjs.org) with [Vite](https://vitejs.dev/).
+[Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Jest](https://jestjs.io/) and [Rollup](https://rollupjs.org) with [Vite](https://vitejs.dev/).
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ This is a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeSc
 | `npm run dev` | Builds project and open web server, watching for changes |
 | `npm run build` | Builds code bundle with production settings  |
 | `npm run serve` | Run a web server to serve built code bundle |
+| `npm run test` | Run project test with coverage |
 
 ## Development
 
