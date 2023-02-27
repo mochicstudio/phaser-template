@@ -1,7 +1,7 @@
 {
   "name": "mochicstudio-phaser3-typescript-template",
   "version": "1.0.0",
-  "description": "Mochic Studio Phaser 3 TypeScript",
+  "description": "Mochic Studio's Phaser 3 TypeScript",
   "main": "dist/index.js",
   "scripts": {
     "dev": "vite",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MochicStudio/phaser-template"
+    "url": "git+https://github.com/mochicstudio/phaser-template"
   },
   "author": "Andres Ruiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MochicStudio/phaser-template/issues"
+    "url": "https://github.com/mochicstudio/phaser-template/issues"
   },
-  "homepage": "https://github.com/MochicStudio/phaser-template#readme",
+  "homepage": "https://github.com/mochicstudio/phaser-template#readme",
   "devDependencies": {
     "@rollup/plugin-alias": "^3.1.2",
     "@rollup/plugin-commonjs": "^17.1.0",

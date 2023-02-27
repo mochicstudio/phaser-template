@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/MochicStudio/phaser-template#readme"><img src="https://i.imgur.com/6lcIxDs.png" alt="header" width="600"/></a>
+  <a href="https://github.com/mochicstudio/phaser-template#readme"><img src="https://i.imgur.com/6lcIxDs.png" alt="header" width="600"/></a>
   <br>
-  Mochic Studio Phaser 3 TypeScript Template
+  Mochic Studio's Phaser 3 TypeScript Template
   <br>
 </h1>
 
@@ -28,4 +28,4 @@ server by running `npm run dev` and navigate to http://localhost:3000.
 After running `npm run build`, the files you need for production will be on the `dist` folder. To test code on your `dist` folder, run `npm run serve` and navigate to http://localhost:5000
 
 ## License
-[MIT](https://github.com/MochicStudio/phaser-template/blob/master/LICENSE)
+[MIT](https://github.com/mochicstudio/phaser-template/blob/master/LICENSE)
